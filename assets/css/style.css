@@ -1,0 +1,11 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+  }
+/*NAVBAR*/
+.bg-navbar{
+    background-color: transparent;
+}
+
