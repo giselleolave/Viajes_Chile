@@ -36,3 +36,26 @@ h2{
     width: 100%;
     height: 200px;
 }
+
+/*FORMULARIO*/
+.centrar{
+    width: 100%;
+    margin: auto;
+}
+.textos-for{
+    text-align: left;
+    font-weight: 700;
+    color: white;
+}
+.botones{
+    color: white;
+}
+footer{
+
+    color: white;
+    font-weight: 300;
+    font-size: 100%;
+}
+.iconos{
+align-items: end;
+}
