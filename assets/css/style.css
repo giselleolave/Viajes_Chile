@@ -1,5 +1,5 @@
 body{
-    font-family: 'Raleway', sans-serif;
+    font-family: "Roboto", sans-serif;
     background-color: black;
 }
 html {
@@ -56,6 +56,4 @@ footer{
     font-weight: 300;
     font-size: 100%;
 }
-.iconos{
-align-items: end;
-}
+
